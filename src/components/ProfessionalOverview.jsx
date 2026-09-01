@@ -332,7 +332,7 @@ const ProfessionalOverview = () => {
                       Location
                     </p>
                     <p className="mt-2 text-white">
-                      Dallas, Texas
+                     Augusta, GA
                     </p>
                   </div>
 
