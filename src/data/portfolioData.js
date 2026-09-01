@@ -193,7 +193,7 @@ export const rjData = {
     id: "workflow-automation",
     title: "Enterprise Workflow Automation",
     client: "Zions Bancorporation",
-    role: "Power Automate Developer",
+    role: ".NET Developer ",
     impact: "Digital Business Process Automation",
     description:
       "Built Microsoft Power Platform automation solutions that transformed manual banking workflows into secure digital approval processes, improving operational efficiency and governance across enterprise teams.",
