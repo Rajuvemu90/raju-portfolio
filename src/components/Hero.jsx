@@ -38,15 +38,6 @@ const Hero = () => {
             >
               View Experience
             </a>
-            
-            <a
-            href="/Raju_V_Principal_CRM_Architect_Resume.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="px-6 py-3 bg-gradient-to-r from-slate-800 to-slate-700 border border-slate-600 rounded-lg text-xs uppercase font-bold tracking-wider text-amber-400 shadow-md hover:from-slate-700 hover:to-slate-600 transition-all duration-200"
-            >
-            View Resume
-            </a>
           </div>
         </div>
 

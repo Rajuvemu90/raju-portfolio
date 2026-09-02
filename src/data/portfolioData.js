@@ -34,7 +34,7 @@ export const rjData = {
     {
       company: "KAISER PERMANENTE",
       location: "Upper Marlboro, MD",
-      role: "Lead CRM Dynamics 365 / Power Platform Developer",
+      role: "Lead Microsoft Dynamics 365 Architect",
       period: "April 2023 - Present",
       description: "Spearheaded enterprise-wide CRM/ERP transformations and automated cloud deployment workflows for a multi-entity, HIPAA-regulated healthcare environment.",
       bullets: [
@@ -46,7 +46,7 @@ export const rjData = {
     {
       company: "THE GOLDMAN SACHS INC.",
       location: "Jersey City, NJ",
-      role: "Senior Microsoft CRM ERP Developer",
+      role: "Senior Microsoft Dynamics 365 Developer",
       period: "December 2018 - March 2023",
       description: "Engineered omnichannel banking engagement models and high-throughput transactional frameworks for core retail banking and wealth management systems.",
       bullets: [
@@ -58,7 +58,7 @@ export const rjData = {
     {
       company: "OMADA HEALTH",
       location: "San Francisco, CA",
-      role: "Senior Microsoft Dynamics 365 CE Developer",
+      role: "Senior Microsoft Dynamics 365 & Power Platform Developer",
       period: "February 2017 - November 2018",
       description: "Designed scalable, compliant clinical operation workflows within a highly protected digital healthcare SaaS ecosystem.",
       bullets: [
@@ -69,8 +69,8 @@ export const rjData = {
     },
     {
       company: "ZULILY",
-      location: "Seattle, WA",
-      role: "Dynamics 365 Consultant",
+      location: "Salt Lake City, UT",
+      role: "Microsoft Dynamics CRM Consultant",
       period: "April 2015 - January 2017",
       description: "Built automated data routing paths connecting front-facing digital customer profiles to backend logistical tracking tools.",
       bullets: [
@@ -81,7 +81,7 @@ export const rjData = {
     {
       company: "ZIONS BANCORPORATION",
       location: "Salt Lake City, UT",
-      role: "Power Automate Developer",
+      role: ".NET Developer",
       period: "January 2013 - March 2015",
       description: "Pioneered early low-code conversion programs turning manual, fragmented paperwork tracking sheets into digital workflows.",
       bullets: [
@@ -95,7 +95,7 @@ export const rjData = {
     id: "healthcare-modernization",
     title: "Enterprise Healthcare CRM Modernization",
     client: "Kaiser Permanente",
-    role: "Lead CRM Dynamics 365 / Power Platform Developer",
+    role: "Lead Microsoft Dynamics 365 Architect",
     impact: "Enterprise CRM & ERP Transformation",
     description:
       "Architected and delivered Microsoft Dynamics 365 CE, Power Platform, Azure, and Finance & Operations solutions for a multi-entity healthcare organization, modernizing enterprise workflows, strengthening platform security, and automating mission-critical business processes.",
@@ -119,8 +119,8 @@ export const rjData = {
   {
     id: "banking-digital-platform",
     title: "Enterprise Banking Digital Platform",
-    client: "Goldman Sachs",
-    role: "Senior Microsoft CRM ERP Developer",
+    client: "The Goldman Sachs",
+    role: "Senior Microsoft Dynamics 365 Developer",
     impact: "Omnichannel Banking Modernization",
     description:
       "Designed enterprise Dynamics 365 CRM and Finance & Operations solutions integrating banking systems, payment platforms, Azure services, and Power Platform to support secure customer engagement, regulatory compliance, and financial operations.",
@@ -145,7 +145,7 @@ export const rjData = {
     id: "healthcare-saas",
     title: "Healthcare SaaS CRM Platform",
     client: "Omada Health",
-    role: "Senior Microsoft Dynamics 365 CE Developer",
+    role: "Senior Microsoft Dynamics 365 & Power Platform Developer",
     impact: "HIPAA-Compliant Healthcare Solutions",
     description:
       "Developed secure Dynamics 365 CE and Power Platform solutions for healthcare operations by implementing scalable CRM workflows, Azure integrations, Dataverse architecture, and enterprise governance supporting clinical business processes.",
@@ -169,7 +169,7 @@ export const rjData = {
     id: "crm-erp-integration",
     title: "Enterprise CRM & ERP Integration",
     client: "Zulily",
-    role: "Dynamics 365 Consultant",
+    role: "Microsoft Dynamics CRM Consultant",
     impact: "Cross-Platform Business Integration",
     description:
       "Designed CRM-to-ERP integration solutions connecting Microsoft Dynamics, SAP, Oracle, and enterprise applications using APIs, ETL pipelines, workflow automation, and secure enterprise data synchronization.",
@@ -193,7 +193,7 @@ export const rjData = {
     id: "workflow-automation",
     title: "Enterprise Workflow Automation",
     client: "Zions Bancorporation",
-    role: ".NET Developer ",
+    role: ".NET Developer",
     impact: "Digital Business Process Automation",
     description:
       "Built Microsoft Power Platform automation solutions that transformed manual banking workflows into secure digital approval processes, improving operational efficiency and governance across enterprise teams.",
