@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Configures Tailwind CSS directives and global page styling.*/
 html {
   scroll-behavior: smooth;
 }
